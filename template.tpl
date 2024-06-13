@@ -15,7 +15,7 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Loop Horizon PII Checker (UK)",
   "description": "Aims to locate email, phone and postcode (UK format) within the variable passed and replace with a static value, as an analysis aid to help locate PII issues and resolve them correctly.",
-  "categories": ["ANALYTICS", "UTILITY", "TAG_MANAGEMENT"]
+  "categories": ["ANALYTICS", "UTILITY", "TAG_MANAGEMENT"],
   "containerContexts": [
     "WEB"
   ]
