@@ -1,5 +1,5 @@
 homepage: "https://www.loophorizon.com/"
 documentation: "https://www.loophorizon.com/"
 versions:
-  - sha: 6aeab59c62423832e3ce70c9113834ea2bad3ed2
+  - sha: 413d158a6f958fa6e271c6bd97123052058e5b3a
     changeNotes: Initial release.
